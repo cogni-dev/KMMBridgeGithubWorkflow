@@ -18,7 +18,7 @@ on:
         type: string
       jvmVersion:
         description: 'JVM Version to use. Will be passed to java-version parameter of setup-java'
-        default: '11'
+        default: '17'
         required: false
         type: string
       runsOn:
